@@ -1,3 +1,2 @@
 # AsteriskEngine_Docs
-# AsteriskEngine_Docs
-# AsteriskEngine_Docs
+This is the offical documentation for Asterisk Engine.
